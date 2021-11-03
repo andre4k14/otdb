@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: opentdb_manager
-Version: 0.0.0
+Name: otdb
+Version: 0.0.1
 Summary: a little lib for opentdb
 Home-page: UNKNOWN
 Author: André Philipp Meuche
