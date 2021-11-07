@@ -1,7 +1,7 @@
 import sys
 import signal
 
-from otdb.opentdb_manager import otdb
+from otdb import otdb
 def cleanup(*args):
     print("The program is stopping")
     sys.exit(0)

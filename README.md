@@ -1,3 +1,5 @@
+###A crappy wrapper for opentriviadatabase because it is synchronous
+
 ```bash
-pip3 install "git+http://192.168.4.222:9080/andre4k14/opentdb_manager.git"
+pip3 install "git+https://https://github.com/andre4k14/otdb.git"
 ```

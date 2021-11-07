@@ -1,0 +1,1 @@
+from otdb.opentdb_manager import otdb
