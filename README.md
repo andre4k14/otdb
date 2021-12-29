@@ -9,7 +9,7 @@ To install it simply copy the command below.
 You need python 3.9 or higher.
 
 ```bash
-pip3 install "git+https://https://github.com/andre4k14/otdb.git"
+pip3 install "git+https://github.com/andre4k14/otdb.git"
 ```
 
 ## How to use it.
