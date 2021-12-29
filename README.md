@@ -1,5 +1,7 @@
 ### A crappy wrapper for the opentriviadatabase
 ![Tests](https://github.com/andre4k14/otdb/actions/workflows/tests.yml/badge.svg)
+
+
 Don't use it.
 
 To install it simply copy the command below.
